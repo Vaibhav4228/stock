@@ -1,0 +1,21 @@
+/* src/pages/StockPage.css */
+.stock-page {
+  padding: 2rem;
+}
+
+.stock-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input {
+  padding: 0.5rem;
+  margin: 1rem 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.error {
+  color: red;
+}
